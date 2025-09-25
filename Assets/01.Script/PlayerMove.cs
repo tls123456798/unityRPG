@@ -3,16 +3,13 @@ using UnityEngine;
 public class PlayerMove : MonoBehaviour
 {
     private Rigidbody2D playerRigidbody2D; // 이동에 사용될 리지드바디 컴포넌트
-    public float speed = 2f; // 이동 속도
+    public float speed = 4f; // 이동 속도
 
    
     void Start()
     {
         // 게임 오브젝트에서 Rigidbody2D 컴포넌트를 찾아 playerRigidbody2D에 할당
         playerRigidbody2D = GetComponent<Rigidbody2D>();
-
-        // 게임오브젝트 파괴를 방지하기 위한 코드
-        DontDestroyOnLoad(this.gameObject);
     }
 
     
