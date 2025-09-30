@@ -127,34 +127,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "$\u30A2\u30EA\u30B9_0"
+      name: alice_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 67
-        width: 27
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bea3a697b393e6e30800000000000000
-      internalID: 4498596005392562923
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "$\u30A2\u30EA\u30B9_1"
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 101
-        width: 27
+        x: 0
+        y: 102
+        width: 32
         height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -162,43 +140,21 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 998ff511fb2e65290800000000000000
-      internalID: -7901879185916823399
+      spriteID: 537d4af0e49e1e443987b78a4f150b23
+      internalID: -776596204
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "$\u30A2\u30EA\u30B9_2"
+      name: alice_1
       rect:
         serializedVersion: 2
-        x: 35
-        y: 33
-        width: 26
-        height: 103
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a07b53f1f6c6a3a70800000000000000
-      internalID: 8807471245797209866
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "$\u30A2\u30EA\u30B9_3"
-      rect:
-        serializedVersion: 2
-        x: 66
-        y: 101
-        width: 27
+        x: 32
+        y: 102
+        width: 32
         height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -206,87 +162,21 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 61cdea0a41bd329e0800000000000000
-      internalID: -1647232157045826538
+      spriteID: 9c2fdbb74a447ce4f866c0535672feab
+      internalID: -161498673
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "$\u30A2\u30EA\u30B9_4"
+      name: alice_2
       rect:
         serializedVersion: 2
-        x: 67
-        y: 67
-        width: 25
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4afe9f6f7feb5dd90800000000000000
-      internalID: -7073537667505721436
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "$\u30A2\u30EA\u30B9_5"
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 33
-        width: 27
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: edc5fbbb3c818fe50800000000000000
-      internalID: 6843246862737038558
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "$\u30A2\u30EA\u30B9_6"
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 0
-        width: 26
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 00c4a9eb80670a7d0800000000000000
-      internalID: -2909195579351741440
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "$\u30A2\u30EA\u30B9_7"
-      rect:
-        serializedVersion: 2
-        x: 36
-        y: 0
-        width: 25
+        x: 64
+        y: 102
+        width: 32
         height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -294,54 +184,208 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 105df60a4ec53e460800000000000000
-      internalID: 7269756360520094977
+      spriteID: 095d30f54a20c6148a25ccf1227448ae
+      internalID: 609213822
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "$\u30A2\u30EA\u30B9_8"
+      name: alice_3
       rect:
         serializedVersion: 2
-        x: 67
+        x: 0
+        y: 68
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66664b3f7423215449dbe9fb3a423d14
+      internalID: 1758835054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 68
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf56ea16e3359f4d91b9f704c63a6d8
+      internalID: 761396761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 68
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b549188f5d772624e97b2b7088a35bc5
+      internalID: 1879891876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24aa36ff9ad6ab40aaa68a3328978fa
+      internalID: 1524657842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 34
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b213e5b674ff82b4f912752c87a52c15
+      internalID: -1811313005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 34
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1867ee1b7804b894b97b242db61d5835
+      internalID: -837831378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_9
+      rect:
+        serializedVersion: 2
+        x: 0
         y: 0
-        width: 26
-        height: 33
+        width: 32
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0301e3cf9a1501260800000000000000
-      internalID: 7066237605867556912
+      spriteID: 32df680293d325b4ab6324108f92b1f1
+      internalID: -1240220204
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "$\u30A2\u30EA\u30B9_9"
+      name: alice_10
       rect:
         serializedVersion: 2
-        x: 68
-        y: 33
-        width: 25
-        height: 35
+        x: 32
+        y: 0
+        width: 32
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: de3e311ca0645b960800000000000000
-      internalID: 7617071356769985517
+      spriteID: 1bc29758762a9404e976741d76399a9c
+      internalID: 429568059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ae0a3142e59054f963e09bbb5e27dd
+      internalID: -99384839
       vertices: []
       indices: 
       edges: []
@@ -350,7 +394,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 2798b750251ce5d4b9f556d47df98848
     internalID: 0
     vertices: []
     indices: 
@@ -360,16 +404,18 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      "$\u30A2\u30EA\u30B9_0": 4498596005392562923
-      "$\u30A2\u30EA\u30B9_1": -7901879185916823399
-      "$\u30A2\u30EA\u30B9_2": 8807471245797209866
-      "$\u30A2\u30EA\u30B9_3": -1647232157045826538
-      "$\u30A2\u30EA\u30B9_4": -7073537667505721436
-      "$\u30A2\u30EA\u30B9_5": 6843246862737038558
-      "$\u30A2\u30EA\u30B9_6": -2909195579351741440
-      "$\u30A2\u30EA\u30B9_7": 7269756360520094977
-      "$\u30A2\u30EA\u30B9_8": 7066237605867556912
-      "$\u30A2\u30EA\u30B9_9": 7617071356769985517
+      alice_0: -776596204
+      alice_1: -161498673
+      alice_10: 429568059
+      alice_11: -99384839
+      alice_2: 609213822
+      alice_3: 1758835054
+      alice_4: 761396761
+      alice_5: 1879891876
+      alice_6: 1524657842
+      alice_7: -1811313005
+      alice_8: -837831378
+      alice_9: -1240220204
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
